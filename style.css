@@ -1,0 +1,10 @@
+.big-container{
+	background-color: lightblue;
+}
+
+.title-container{
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	border: 5px solid black;
+}
